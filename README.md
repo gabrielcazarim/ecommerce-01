@@ -6,7 +6,7 @@
 🇺🇸 An example of an e-commerce site, with easy addition, removal and editing of products and a ready-to-use payment method
 
 
-## 🛠 🇧🇷 Habilidades / 🇺🇸 Skills
+## 🛠 🇧🇷 Lingagens e APIs / 🇺🇸 Languages and API's
 Javascript, HTML, CSS, React JS, Next JS, Sanity API, Stipe API.
 
 
