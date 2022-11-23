@@ -17,7 +17,7 @@ Javascript, HTML, CSS, React JS, Next JS, Sanity API, Stipe API.
 ![App Screenshot](https://i.imgur.com/TIkY1wa.png)
 
 
-## Authors
+## 🇧🇷Autores / 🇺🇸Authors
 
 - [@gabrielcazarim](https://github.com/gabrielcazarim)
 
